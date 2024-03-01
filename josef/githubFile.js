@@ -1,1 +1,1 @@
-console.log("added to github v1");
+console.log("added to github v2");
