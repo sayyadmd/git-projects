@@ -1,1 +1,4 @@
-console.log("hello - 1");
+function printName(name) {
+  const greetings = "hello " + name;
+  console.log(greetings);
+}
